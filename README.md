@@ -1,2 +1,6 @@
 # vuejs_tutorial
-Repository for study of my vuejs tutorial.
+Vue.jsを勉強するためのリポジトリです
+Repository for study of my Vue.js tutorial.
+
+## License
+MIT LICENSE
