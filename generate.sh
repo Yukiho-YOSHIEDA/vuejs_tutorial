@@ -20,3 +20,4 @@ mkdir $FOLDER_NAME
 cp template/index.html $FOLDER_NAME/index.html
 cp template/index.js $FOLDER_NAME/index.js
 
+cd $FOLDER_NAME
